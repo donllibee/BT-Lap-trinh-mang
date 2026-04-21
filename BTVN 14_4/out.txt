@@ -1,0 +1,11 @@
+total 48
+drwxrwxrwx 1 donllibee donllibee   512 Apr 21 21:04 .
+drwxrwxrwx 1 donllibee donllibee   512 Apr 20 15:36 ..
+-rwxrwxrwx 1 donllibee donllibee     0 Apr 21 21:00 Báo cáo 14_4.docx
+-rwxrwxrwx 1 donllibee donllibee 16840 Apr 21 20:58 chat_server_poll
+-rwxrwxrwx 1 donllibee donllibee  3916 Apr 20 15:40 chat_server_poll.c
+-rwxrwxrwx 1 donllibee donllibee    37 Apr 21 21:03 database.txt
+-rwxrwxrwx 1 donllibee donllibee     0 Apr 21 21:04 out.txt
+-rwxrwxrwx 1 donllibee donllibee 16968 Apr 21 21:04 telnet_server_poll
+-rwxrwxrwx 1 donllibee donllibee  4059 Apr 20 15:40 telnet_server_poll.c
+-rwxrwxrwx 1 donllibee donllibee   162 Apr 21 21:00 ~$o cáo 14_4.docx
